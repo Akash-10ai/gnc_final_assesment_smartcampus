@@ -265,7 +265,7 @@ This project is open source and available for educational purposes.
 
 ## 🙏 Acknowledgments
 
-- GNC (Global Nursing Course) Assessment Framework
+- GNC (Greater noida collage) Assessment Framework
 - Java Collections Framework Documentation
 - Multithreading Best Practices
 
